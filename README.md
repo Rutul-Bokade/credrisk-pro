@@ -1,5 +1,5 @@
 # credrisk-pro
-💼 Credit Risk Classification Using Logistic Regression — RiskLens
+💼 Credit Risk Classification Using Logistic Regression — Cred Risk Pro
 🚀 Executive Summary
 In the world of high-stakes finance, risk isn't an option—it's a metric. RiskLens is a purpose-built, high-performance credit risk classification engine designed to separate high-risk loan applicants from financially sound borrowers with ruthless precision. This isn’t just another academic model. It’s a data-driven underwriting weapon, trained to protect capital, flag hidden liabilities, and redefine creditworthiness in real time.
 
